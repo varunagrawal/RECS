@@ -17,3 +17,6 @@ Usage:
 	After an initial training phase involving admission data from  the previous n (>= 5) years, all a user of the system has to provide is his rank in the examination, and optionally, his preferences for institute and field of study. The system than mines the training data to find the 10 best matches for the user's credentials.
 
 Hope you find this software useful.
+
+References:
+[1]: http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.160.6128 "K Nearest Neighbor Queries and KNN-Joins in Large Relational Databases (Almost) for Free by Bin Yao , Feifei Li , Piyush Kumar"
