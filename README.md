@@ -19,4 +19,6 @@ Usage:
 Hope you find this software useful.
 
 References:
+
+1. Bin Yao , Feifei Li , Piyush Kumar. K Nearest Neighbor Queries and KNN-Joins in Large Relational Databases (Almost) For Free.
 [1]: http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.160.6128 "K Nearest Neighbor Queries and KNN-Joins in Large Relational Databases (Almost) for Free by Bin Yao , Feifei Li , Piyush Kumar"
